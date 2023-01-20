@@ -6,7 +6,7 @@
     list-style-type: none;
     }
     body{
-        background-image: url(/Resources/background.jpg);
+        background-image: url(https://raw.githubusercontent.com/arbabhassan1/Weather-App/master/Resources/background.jpg);
         background-size: cover;
     }
     header .nav{
